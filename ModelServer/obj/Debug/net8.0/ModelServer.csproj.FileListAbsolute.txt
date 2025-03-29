@@ -1,0 +1,14 @@
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\bin\Debug\net8.0\ModelServer.deps.json
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\bin\Debug\net8.0\ModelServer.runtimeconfig.json
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\bin\Debug\net8.0\ModelServer.dll
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\bin\Debug\net8.0\ModelServer.pdb
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.AssemblyInfo.cs
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.dll
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\refint\ModelServer.dll
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.pdb
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ModelServer.genruntimeconfig.cache
+C:\Users\marti\Desktop\Programming\CS584\API Server\ModelServer\obj\Debug\net8.0\ref\ModelServer.dll
