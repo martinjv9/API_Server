@@ -22,7 +22,7 @@ builder.Services.AddSwaggerGen(c => {
             Name = "User",
             Url = new("https://canvas.csun.edu/courses/128137")
         },
-        Description = "APIs for World Cities",
+        Description = "APIs for Cars",
         Title = "Car APIs",
         Version = "V1"
     });

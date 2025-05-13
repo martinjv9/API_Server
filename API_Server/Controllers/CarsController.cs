@@ -6,7 +6,6 @@ using ModelServer.Models;
 
 namespace API_Server.Controllers
 {
-    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CarsController(CarCompanySourceContext context) : ControllerBase
@@ -18,6 +17,7 @@ namespace API_Server.Controllers
         {
             var cars = await _context.Cars
                 .Include(c => c.CarCompanyNavigation)
+                .OrderByDescending(c => c.Id)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
                 .Select(c => new CarDto

@@ -25,11 +25,15 @@ namespace API_Server.Controllers
             var token = await jwtHandler.GetTokenAsync(user);
             var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
 
+            var roles = await userManager.GetRolesAsync(user);
+            var userRole = roles.FirstOrDefault() ?? "User";
+
             return Ok(new LoginResult
             {
                 Success = true,
                 Message = "Login successful",
-                Token = tokenString
+                Token = tokenString,
+                Role = userRole,
             });
         }
     }
